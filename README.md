@@ -1,2 +1,2 @@
 # Responsive-Web-Design
-https://github.com/dsambrose26/Responsive-Portfolio
+https://dsambrose26.github.io/Responsive-Portfolio/
