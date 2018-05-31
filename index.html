@@ -1,52 +1,63 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>About: Derek Ambrose</title>
-  <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
-  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<!-- Document responsive across devices. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Document's character set. -->
+    <meta charset="UTF-8">
+	<title>Ambrose</title>
+	<!-- Linking CSS -->
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<!-- Linking Google Fonts -->
+	<link rel="stylesheet" type="text/css"
+	      href="https://fonts.googleapis.com/css?family=Montserrat">
 </head>
-
 <body>
-  <header id="masthead">
-    <div class="container">
-      <a href="index.html" id="logo">Derek Ambrose</a>
-      <nav>
-        <a href="index.html">About</a>
-        <a href="portfolio.html">Portfolio</a>
-        <a href="contact.html">Contact</a>
-      </nav>
-    </div>
-  </header>
-  
-  <div id="main-container" class="container">
-    <section class="main-section">
-      <h1>About Me</h1>
-        <img src="assets/images/pic1.jpg" class="auth-image" alt="Derek Ambrose">
-        <p>This responsive web page design is simple and clean. This project's deadline was a Saturday after a very long week.</p> 
-        <p>I took a detour from the tech industry to serve my country as a Chaplain.</p>
-        <p>I'm back, but also loving to thrive.</p> 
-        <p>I have a strong background and am dedicated. Hope I get an A+ on this project.</p>
-          
-    </section>
 
-    <section class="sidebar">
-      <div id="connect">
-        <h2>Connect with Me</h2>
-        <a href="https://github.com/dsambrose26"><img src="./assets/images/github.png" class="social" alt="GitHub" /></a>
-        <a href="https://www.linkedin.com/in/derek-ambrose-157830144/"><img src="./assets/images/linkedin.png" class="social" alt="LinkedIn" /></a>
-      </div>
-    </section>
-  </div>
+	<div class="header-container">
+		<header>Derek Ambrose</header>
 
-  <footer>
-    <div class="container">
-      Copyright &copy; 2018 Derek S. Ambrose
-    </div>
-  </footer>
+		<nav>
+			<ul>
+				<li class="border"><a href="index.html">About</a></li>
+				<li class="border"><a href="portfolio.html">Portfolio</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+	</div>
+	
 
+	<div class="main-container">
+		<section id="main-bio">
+			<h2>About Me</h2>
+			<img id="bio-image" src="assets/images/screenshot.jpeg" alt="It's me">
+			<!-- start slipsum code -->
+			<h1>Responsive Web Design</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac magna non augue porttitor scelerisque ac id diam. Mauris
+			elit velit, lobortis sed interdum at, vestibulum vitae libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+			Quisque iaculis ligula ut ipsum mattis viverra. Nulla a libero metus. Integer gravida tempor metus eget condimentum. Integer
+			eget iaculis tortor. Nunc sed ligula sed augue rutrum ultrices eget nec odio. Morbi rhoncus, sem laoreet tempus pulvinar,
+			leo diam varius nisi, sed accumsan ligula urna sed felis. Mauris molestie augue sed nunc adipiscing et pharetra ligula suscipit.
+			In euismod lectus ac sapien fringilla ut eleifend lacus venenatis. </p>
+
+			<p>Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum
+			non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia
+			vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna. </p>
+
+			
+      <!-- end slipsum code -->
+    	</section>
+
+    	<section id="social-links">
+      		<h3>Connect with Me</h3>
+      		<ul>
+        		<li class="left-align"><a href="https://github.com/dsambrose26"><img class="icon"  src="assets/images/github-128.png" alt="GitHub Profile"></a></li>
+        		<li class="left-align"><a href="https://www.linkedin.com/in/dereksambrose/"><img class="icon"  src="assets/images/square-linkedin-128.png" alt="LinkedIn Profile"></a></li>
+        		<li class="left-align"><a href=""><img class="icon"  src="assets/images/stackoverflow.png" alt="StackOverflow Profile"></a></li>
+      		</ul>
+    	</section>
+	</div>
+
+	<footer>&copy; 2018 Derek Ambrose</footer>
 </body>
 </html>
