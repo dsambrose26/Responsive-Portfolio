@@ -1,3 +1,3 @@
-# Responsive-Web-Design
+# Responsive Web Page
 
 Responsive Portfolio
