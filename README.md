@@ -8,4 +8,5 @@
 
 ##### [Download my Resume](https://dsambrose26.github.io/derek_ambroseResume/ "pdfResume")
 ##### [Browser View](https://dsambrose26.github.io/Responsive-Portfolio/ "responsive")    
+##### [LinkedIn](https://www.linkedin.com/in/derek-ambrose-157830144/ "linkedIn") 
 ##### [derekambrose@outlook.com](mailto:derekambrose@outlook.com)
