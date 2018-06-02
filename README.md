@@ -6,4 +6,7 @@
 
 ![screen shot 2018-05-31 at 5 05 17 pm](https://user-images.githubusercontent.com/34081511/40808404-faca12ee-64f4-11e8-9259-5bdc442336d7.png)
 
+#### [Link to view on browser](https://dsambrose26.github.io/Responsive-Portfolio/ "responsive")    
+##### [derekambrose@outlook.com](mailto:derekambrose@outlook.com)
 
+#### [Download my Resume](https://dsambrose26.github.io/derek_ambroseResume/ "pdfResume")
